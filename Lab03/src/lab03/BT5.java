@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package lab03;
 
 import java.awt.BorderLayout;
@@ -15,10 +10,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-/**
- *
- * @author Administrator
- */
 public class BT5 extends JFrame {
 
     private static final long serialVersionUID = 1L;

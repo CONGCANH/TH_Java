@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package lab03;
 
 import java.awt.Color;
@@ -14,10 +9,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-/**
- *
- * @author Administrator
- */
 public class BT4 extends JFrame {
 
     private static final long serialVersionUID = 1L;
@@ -45,7 +36,7 @@ public class BT4 extends JFrame {
 
     public static void main(String[] args) {
         BT4 bt4 = new BT4("hoc BoxLayout");
-        bt4.setSize(600, 100);
+        bt4.setSize(600, 600);
         bt4.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         bt4.setLocationRelativeTo(null);
         bt4.setVisible(true);
